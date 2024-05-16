@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monae Curbeam</h1>
 <h3 align="center">I'm a dedicated full-stack developer driven by a passion for crafting accessible web applications that not only excite users but also have the power to transform lives.</h3>
 
-- 🔭 I’m currently working on **Klosit**
+- 🔭 I’m currently working on **Klosit, an application where users can create and update a virtual closet**
 
 - 🌱 I’m currently learning **Nextjs, Python**
 

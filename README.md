@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Klosit, an application where users can create and update a virtual closet**
 
-- 🌱 I’m currently learning **Nextjs, Python**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://monaecurbeam.vercel.app/](https://monaecurbeam.vercel.app/)
 
